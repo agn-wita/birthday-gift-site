@@ -1,3 +1,31 @@
 body {
-    
+    margin: 0;
+    padding: 10px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    text-align: center;
+    background-color: #fff9f3;
+    /* text-shadow: -2px 3px 3px rgb(255, 255, 255); */
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-ian {
+    width: 50%;
+    border-radius: 50%;
+    border: solid 8px #e2abb6;
+}
+
+.pink-bcg {
+    background: #e2abb6;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+h4 {
+    margin-top: 0;
 }
