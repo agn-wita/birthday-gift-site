@@ -54,3 +54,7 @@ h4 {
 .gift-sec-title {
     margin-bottom: 5px;
 }
+
+.img-gift:hover {
+    background-image: url('https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif');
+}
