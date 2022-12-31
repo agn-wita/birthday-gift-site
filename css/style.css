@@ -4,7 +4,7 @@ body {
     font-family: 'Comfortaa', cursive;
     font-weight: 400;
     text-align: center;
-    background-color: #fff9f3;
+    background-color: #e6e0db;
     /* text-shadow: -2px 3px 3px rgb(255, 255, 255); */
 }
 
@@ -28,4 +28,29 @@ body {
 
 h4 {
     margin-top: 0;
+}
+
+.img-gift {
+    width: 400px;
+    height: 400px;
+    background-image: url("../img/gift.jpg");
+    background-color: grey;
+    background-position: center;
+    background-size: cover;
+    border: solid 8px #e2abb6;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gift-sec {
+    margin-top: 50px;
+}
+
+.gift-sec-subtitle {
+    margin-top: 0;
+}
+
+.gift-sec-title {
+    margin-bottom: 5px;
 }
