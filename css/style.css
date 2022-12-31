@@ -46,6 +46,7 @@ body {
 
 .gift-sec {
     margin-top: 30px;
+    margin-bottom: 0;
 }
 
 .gift-sec-subtitle {
@@ -70,4 +71,12 @@ body {
 
 #gift-4:hover {
     background-image: url('https://media.giphy.com/media/U4DswrBiaz0p67ZweH/giphy.gif');
+}
+
+.footer-link {
+    color: inherit;
+}
+
+.footer-txt {
+    margin-top: 40px;
 }
