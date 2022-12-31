@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding: 10px;
+    padding: 20px;
     font-family: 'Comfortaa', cursive;
     font-weight: 400;
     text-align: center;
@@ -26,8 +26,9 @@ body {
     border-radius: 4px;
 }
 
-h4 {
+.header-subtitle {
     margin-top: 0;
+    margin-bottom: 0;
 }
 
 .img-gift {
@@ -44,17 +45,29 @@ h4 {
 }
 
 .gift-sec {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .gift-sec-subtitle {
     margin-top: 0;
 }
 
-.gift-sec-title {
-    margin-bottom: 5px;
+#gift-1:hover {
+    background-image: url('https://media.giphy.com/media/YnBntKOgnUSBkV7bQH/giphy.gif');
 }
 
-.img-gift:hover {
-    background-image: url('https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif');
+#gift-2:hover {
+    background-image: url('https://media.giphy.com/media/gIYVGjGT97aA77A5Ej/giphy.gif');
+}
+
+#gift-3:hover {
+    background-image: url('https://media.giphy.com/media/VbawWIGNtKYwOFXF7U/giphy.gif');
+}
+
+#gift-4 {
+    height: 200px;
+}
+
+#gift-4:hover {
+    background-image: url('https://media.giphy.com/media/U4DswrBiaz0p67ZweH/giphy.gif');
 }
