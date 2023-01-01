@@ -4,7 +4,7 @@ body {
     font-family: 'Comfortaa', cursive;
     font-weight: 400;
     text-align: center;
-    background-color: #e6e0db;
+    background: linear-gradient(#e6e0db,#cce3de);
     /* text-shadow: -2px 3px 3px rgb(255, 255, 255); */
 }
 
